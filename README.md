@@ -111,4 +111,4 @@ for (Object command : Arrays.asList(
 ```
 
 ## Looking to advance your knowledge in Java?
-If you're just starting out as a Developer, or want to reinforce your already discovered knowledge, be sure to check out this course on [Udemy][udemy-course]. Not sure if you want to invest in the course? Join the Discord [here][course-discord] and get to know the people behind it.
+If you're just starting out as a Developer, or want to reinforce your already discovered knowledge, be sure to check out [this][udemy-course] course on Udemy. Not sure if you want to invest in the course? Join the Discord [here][course-discord] and get to know the people behind it.

@@ -76,7 +76,7 @@ public void onCommand(CommandArgs cmd) {
 ### CommandArgs attributes:
 CommandArgs#getSender - Return the `CommandSender` object<br>
 CommandArgs#getCommand - Return the original command object<br>
-CommandArgs#getLabel - Return the label (including sub command labels)<br>
+CommandArgs#getLabel - Return the label, including sub command labels<br>
 CommandArgs#getArgs - Return the arguments after the commands label, does not include sub commands specified in the `name`<br>
 CommandArgs#length - Returns the length of the command arguments<br>
 CommandArgs#getPlayer - Returns the `Player` object (if the sender is not a player, it will return null)<br>
